@@ -1,0 +1,9 @@
+{
+  "short_name": "Study App",
+  "name": "Study Together App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#0a0a0a"
+}
